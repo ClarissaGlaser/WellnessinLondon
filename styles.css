@@ -1,0 +1,27 @@
+p {
+  color: grey;
+  font-family: verdana;
+  font-size: 130%;
+  margin-right: 600px;
+}
+
+h1 {
+  color: pink;
+  font-family: verdana;
+  font-size: 170%;
+  margin-top: 50px;
+}
+
+ul {
+  color: grey;
+  font-family: verdana;
+  font-size: 120%;
+  font-style: italic;
+}
+
+.formatting {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 150px;
+  margin-left: 40px;
+}
