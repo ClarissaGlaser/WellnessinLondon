@@ -25,3 +25,10 @@ ul {
   margin-right: 150px;
   margin-left: 40px;
 }
+
+p1 {
+  color: grey;
+  font-family: verdana;
+  font-size: 130%;
+  margin-right: 200px;
+}
